@@ -55,6 +55,26 @@ FitTrack позволит пользователям эффективно отс
 | Настройка параметров тренировки    | Настройка параметров тренировки	Сохранение и обновление графика тренировок.       |
 | Просмотр статистики                | Отображение прогресса и сохранение изменений.                                      |
 
+Окно входа
+
+![Окно входа](https://github.com/Aloni0812/FitTrackP/blob/master/docs/Mockups/Authorization.png).
+
+Окно регистрации 
+
+![Окно регистрации](https://github.com/Aloni0812/FitTrackP/blob/master/docs/Mockups/Registration.png).
+
+Окно профиля
+
+![Окно профиля](https://github.com/Aloni0812/FitTrackP/blob/master/docs/Mockups/Profile.png).
+
+Окно списка тренировок
+
+![Окно списка тренировок](https://github.com/Aloni0812/FitTrackP/blob/master/docs/Mockups/Training%20List.png).
+
+Окно календаря тренировок
+
+![Окно календаря тренировок](https://github.com/Aloni0812/FitTrackP/blob/master/docs/Mockups/Training%20%D0%A1alendar.png).
+
 <a name="23"/>
 
 ### 2.3 Характеристики пользователей
